@@ -7,6 +7,7 @@ else :
 # print("end of the program")
 # print("hello")
 b=input("enter a number")
-while a>0:
-    print(a)
-    a=a-1
+while b>0:
+    print(b)
+    b=b-1
+print("end of the program")
