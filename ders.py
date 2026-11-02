@@ -22,3 +22,4 @@ def add(a,b):
 c = int(input("enter a number")) 
 d=int(input("enter another number"))
 print("the sum is",add(c,d))
+print("end of the program")
