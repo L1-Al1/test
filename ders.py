@@ -11,3 +11,15 @@ while b>0:
     print(b)
     b=b-1
 print("end of the program")
+
+def multiply(x,y):
+    return x*y
+c = int(input("enter a number")) 
+d=int(input("enter another number"))
+print("the product is",multiply(c,d))
+def add(a,b):
+    return a+b
+c = int(input("enter a number")) 
+d=int(input("enter another number"))
+print("the sum is",add(c,d))
+print("end of the program")
